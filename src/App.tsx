@@ -1,9 +1,9 @@
-import CartSidebar from "@/components/CartSidebar";
+import CartSidebar from "./components/CartSidebar";
 import { useState } from "react";
-import ProductListing from "@/pages/ProductListing";
-import AppointmentCompletion from "@/pages/AppointmentCompletion";
+import ProductListing from "./pages/ProductListing";
+import AppointmentCompletion from "./pages/AppointmentCompletion";
 import "./styles.css";
-import Navbar from "@/components/Navbar/Navbar";
+import Navbar from ".//components/Navbar/Navbar";
 
 export default function App() {
   const [showAppointment, setShowAppointment] = useState(false);

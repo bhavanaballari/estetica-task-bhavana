@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import productsData from "@/data/products.json";
-import { Product } from "@/type/Product";
+import productsData from "../../data/projects.json";
+import { Product } from "../../type/Product";
 
 type State = {
   items: Product[];
