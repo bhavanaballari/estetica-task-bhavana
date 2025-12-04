@@ -1,0 +1,10 @@
+[
+    { "id": "1", "title": "Vitamin C Serum", "category": "Skin", "price": 450 },
+    { "id": "2", "title": "Aloe Gel", "category": "Skin", "price": 320 },
+    { "id": "3", "title": "Hair Growth Oil", "category": "Hair", "price": 580 },
+    { "id": "4", "title": "Keratin Shampoo", "category": "Hair", "price": 390 },
+    { "id": "5", "title": "Moisturizer", "category": "Skin", "price": 250 },
+    { "id": "6", "title": "Beard Serum", "category": "Hair", "price": 420 },
+    { "id": "7", "title": "SPF 50 Sunscreen", "category": "Skin", "price": 499 }
+  ]
+  
